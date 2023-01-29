@@ -4,7 +4,7 @@
 
 given a number n, will traverse upwards n directories (../ * n)
 
-## usage
+** usage
 #+begin_src shell
 pwd
 #+end_src
