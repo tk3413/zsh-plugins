@@ -1,0 +1,22 @@
+# up
+
+## description
+
+given a number n, will traverse upwards n directories (../ * n)
+
+## usage
+#+begin_src shell
+pwd
+#+end_src
+
+: ~/code
+
+#+begin_src shell
+up 1
+pwd
+#+end_src
+
+: ~/
+
+## source
+[[https://askubuntu.com/questions/703698/how-do-i-navigate-up-one-directory-from-the-terminal][this page]]
