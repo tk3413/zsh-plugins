@@ -1,6 +1,6 @@
-# up
+* up
 
-## description
+** description
 
 given a number n, will traverse upwards n directories (../ * n)
 
@@ -18,5 +18,5 @@ pwd
 
 : ~/
 
-## source
+** source
 [[https://askubuntu.com/questions/703698/how-do-i-navigate-up-one-directory-from-the-terminal][this page]]
